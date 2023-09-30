@@ -1,5 +1,5 @@
-from pessoa import Pessoa
+from pessoa import pessoa
 
-pessoaUm = Pessoa(nome="Vitor", sobrenome="Antoni", idade=19)
-print(pessoaUm)
-print(pessoaUm.nome)
+pessoa = pessoa("Vitor","Antoni",19,False)
+pessoa.casou()
+print(pessoa.eh_casada)    
