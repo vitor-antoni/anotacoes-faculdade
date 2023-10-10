@@ -1,8 +1,3 @@
-"""
-Funcao Lambda
-Funcao anonima que possui apenas uma linha
-"""
-
 lista = [
     {
         "nome":"Vitor",
