@@ -8,8 +8,8 @@ def sem_parametros(*args):
 
     print(total)
   
-sem_parametros(1, 2, 3)
+sem_parametros(1, 2, 3, 4)
 
 ### ===== Output ===== ###
-# [1, 2, 3]
-# 6
+# [1, 2, 3, 4]
+# 10
